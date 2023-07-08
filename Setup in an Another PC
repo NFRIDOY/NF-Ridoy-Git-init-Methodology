@@ -1,0 +1,9 @@
+git init
+git add .
+git config user.email "nfridoy@gmail.com" [Don't use >>> git config --global user.email "nfridoy@gmail.com"]
+git config user.name "nfridoy@gmail.com"
+git commit -m "Test"
+git checkout -b Test       [Test is the new Branch]
+git remote add origin "MyGitHub_Link"
+git push --set-upstream origin Test     [Test is the new Branch]
+git push
