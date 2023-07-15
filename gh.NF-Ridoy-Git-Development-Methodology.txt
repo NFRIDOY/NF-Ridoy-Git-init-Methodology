@@ -1,13 +1,18 @@
 NF-Ridoy-Git-Development-Methodology
 
+Init The Repo => …or create a new repository on the command line
+---------------------------------------------------------
 echo "# NF-Ridoy-Git-Development-Methodology" >> README.md
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/NFRIDOY/NF-Ridoy-Git-Development-Methodology.git
 git push -u origin main
 -------------------------------------------------------------------------------------------
+
+…or push an existing repository from the command line
+-----------------------------------------------------------------------------------------
 git remote add origin https://github.com/NFRIDOY/NF-Ridoy-Git-Development-Methodology.git
 git branch -M main
 git push -u origin main
@@ -15,3 +20,11 @@ git push -u origin main
 Cheatsheet .md File of github
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#alt-h1
 -------------------------------------------------------------------------------------------
+Fork A Repo
+--------------------------
+git clone <HTTP Link>
+git add .
+git commit -m "New Update"
+git push
+---------------------------
+Always "git clone" is Better than "Download zip" For everything (fork, clone, setup on another PC)
