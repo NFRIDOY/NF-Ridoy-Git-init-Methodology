@@ -3,7 +3,7 @@ This is the git repository for NF-Ridoy Git Development Methodology
 ## Introduction
 
 ## Installation
-### 1 Make 9 branchs : main, main-structure, develop, Responsive, Alpha, gh-pages, Beta, Gamma, Delta
+### 1 Make 9 branches: main, main-structure, develop, Responsive, Alpha, gh-pages, Beta, Gamma, Delta
 
 ### 2. Branch Details:
 #### main: Main Master::  >> Merge main to gh-pages.
