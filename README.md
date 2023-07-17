@@ -21,12 +21,12 @@ main >> main-structure >> develop >> Responsive >> Alpha >> Beta >> Gamma >> Del
 # Fork A Repository
 How To Fork A Repo <br>
 <br> ---------------------------------------------------- <br>
-~~~c
+```c
 git clone <HTTP Link> 
 git add . 
 git commit -m "New Update" 
 git push
-~~~
+```
 <br> ---------------------------------------------------- <br>
 #### Always "git clone" is Better than "Download zip" For everything (fork, clone, setup on another PC) 
 ## How to Code
