@@ -25,12 +25,11 @@ main >> main-structure >> develop >> Responsive >> Alpha >> Beta >> Gamma >> Del
 How To Fork A Repo <br>
 -------------------------- <br>
 ```
-```bash
+```c
 git clone <HTTP Link> 
 git add . 
 git commit -m "New Update" 
 git push
-```
 ```
 --------------------------- <br>
 #### Always "git clone" is Better than "Download zip" For everything (fork, clone, setup on another PC) 
@@ -39,7 +38,6 @@ git push
 ```
 ```Javascript
 var my var = 5;
-```
 ```
 
 <!-- ## Usage
