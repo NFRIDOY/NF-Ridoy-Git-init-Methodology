@@ -1,3 +1,4 @@
+<span style="color: red;">This text will be red.</span>
 
 # NF-Ridoy-Git-Development-Methodology
 This is the git repository for NF-Ridoy Git Development Methodology
