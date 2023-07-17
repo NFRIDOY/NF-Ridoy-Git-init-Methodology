@@ -5,15 +5,15 @@ This is the git repository for NF-Ridoy Git Development Methodology
 ## Installation
 ### Make 9 branches: main, main-structure, develop, Responsive, Alpha, gh-pages, Beta, Gamma, Delta
 ### 1. Branch Details:
-<br> main: Main Master::  >> Merge main to gh-pages.
-<br> main-structure: Main Structure :: Merge main-structure to develop // [Merge main-structure to main]
-<br> develop: || Merge develop to Responsive
-<br> Responsive: Merge Responsive to Alpha
-<br> Alpha: Merge to main && Merge to Beta.
-<br> gh-pages: For Live Server/Link
-<br> Beta: Merge to Gamma.
-<br> Gamma:
-<br> Delta:
+<br> **main:** Main Master::  >> Merge main to gh-pages.
+<br> **main-structure:** Main Structure :: Merge main-structure to develop // [Merge main-structure to main]
+<br> **develop:** || Merge develop to Responsive
+<br> **Responsive:** Merge Responsive to Alpha
+<br> **Alpha:** Merge to main && Merge to Beta.
+<br> **gh-pages:** For Live Server/Link
+<br> **Beta:** Merge to Gamma.
+<br> **Gamma:**
+<br> **Delta:**
     <hr>
     <hr>
 ### 2. Branch Serial:
