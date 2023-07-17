@@ -14,20 +14,20 @@ This is the git repository for NF-Ridoy Git Development Methodology
 <br> **Beta:** Merge to Gamma.
 <br> **Gamma:**
 <br> **Delta:**
-<hr>
+---------------------------------------------------- <br>
 ### 2. Branch Serial:
 main >> main-structure >> develop >> Responsive >> Alpha >> Beta >> Gamma >> Delta
 <hr>
 # Fork A Repository
 How To Fork A Repo <br>
--------------------------- <br>
-~~~c
+---------------------------------------------------- <br>
+~~~
 git clone <HTTP Link> 
 git add . 
 git commit -m "New Update" 
 git push
 ~~~
---------------------------- <br>
+---------------------------------------------------- <br>
 #### Always "git clone" is Better than "Download zip" For everything (fork, clone, setup on another PC) 
 ## How to Code
 ```Javascript
