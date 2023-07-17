@@ -35,7 +35,7 @@ git push
 #### Always "git clone" is Better than "Download zip" For everything (fork, clone, setup on another PC) 
    
 ## How to Code
-```
+~~~
 ```Javascript
 var my var = 5;
 ```
