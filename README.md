@@ -1,34 +1,42 @@
 # NF-Ridoy-Git-Development-Methodology
 This is the git repository for NF-Ridoy Git Development Methodology
 ## Introduction
+Make 9 branches: main, main-structure, develop, Responsive, Alpha, gh-pages, Beta, Gamma, Delta
 
 ## Installation
-### 1 Make 9 branches: main, main-structure, develop, Responsive, Alpha, gh-pages, Beta, Gamma, Delta
-
-### 2. Branch Details:
-#### main: Main Master::  >> Merge main to gh-pages.
+### 1. Branch Details:
+<br> main: Main Master::  >> Merge main to gh-pages.
     
-#### main-structure: Main Structure :: Merge main-structure to develop // [Merge main-structure to main]
+<br> main-structure: Main Structure :: Merge main-structure to develop // [Merge main-structure to main]
     
-#### develop: || Merge develop to Responsive
+<br> develop: || Merge develop to Responsive
     
-#### Responsive: Merge Responsive to Alpha
+<br> Responsive: Merge Responsive to Alpha
     
-#### Alpha: Merge to main && Merge to Beta.
+<br> Alpha: Merge to main && Merge to Beta.
     
-#### gh-pages: 
+<br> gh-pages: 
     
-#### Beta: Merge to Gamma.
+<br> Beta: Merge to Gamma.
     
-#### Gamma:
+<br> Gamma:
     
-#### Delta:
+<br> Delta:
     <hr>
     <hr>
-### 3. Branch Serial:
+### 2. Branch Serial:
+main >> main-structure >> develop >> Responsive >> Alpha >> Beta >> Gamma >> Delta
 
-#### main >> main-structure >> develop >> Responsive >> Alpha >> Beta >> Gamma >> Delta
-    
+# Fork A Repository
+How To Fork A Repo <br>
+-------------------------- <br>
+git clone <HTTP Link> <br>
+git add . <br>
+git commit -m "New Update" <br>
+git push <br>
+--------------------------- <br>
+## Always "git clone" is Better than "Download zip" For everything (fork, clone, setup on another PC) <br>
+   
 ## Usage
 This is the git repository for NF-Ridoy Git Development Methodology.
 ## Contributing
