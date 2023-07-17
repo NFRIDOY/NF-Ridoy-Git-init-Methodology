@@ -1,5 +1,5 @@
 
-# <span class="primary"> NF-Ridoy-Git-Development-Methodology </span>
+# NF-Ridoy-Git-Development-Methodology
 This is the git repository for NF-Ridoy Git Development Methodology
 ## Introduction
 Make 9 branches: main, main-structure, develop, Responsive, Alpha, gh-pages, Beta, Gamma, Delta
@@ -16,7 +16,7 @@ Make 9 branches: main, main-structure, develop, Responsive, Alpha, gh-pages, Bet
     
 <br> Alpha: Merge to main && Merge to Beta.
     
-<br> gh-pages: 
+<br> gh-pages: For Live Server/Link
     
 <br> Beta: Merge to Gamma.
     
