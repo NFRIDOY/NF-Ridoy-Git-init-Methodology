@@ -17,8 +17,7 @@ This is the git repository for NF-Ridoy Git Development Methodology
 <hr>
 ### 2. Branch Serial:
 main >> main-structure >> develop >> Responsive >> Alpha >> Beta >> Gamma >> Delta
-
-    <hr> <hr>
+<hr>
 # Fork A Repository
 How To Fork A Repo <br>
 -------------------------- <br>
