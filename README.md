@@ -3,6 +3,8 @@ This is the git repository for NF-Ridoy Git Development Methodology
 ## Introduction
 
 ## Installation
+## 0.0 Must ADD .gitignore
+PRESS F1 > SEARCH add gitignore > TYPE/SELECT node
 ### Make 9 branches: main, main-structure, develop, Responsive, Alpha, gh-pages, Beta, Gamma, Delta
 ### 1. Branch Details:
 <br> **main:** Main Master::  >> Merge main to gh-pages.
