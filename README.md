@@ -35,11 +35,13 @@ git push
 
 <br> ---------------------------------------------------- <br>
 
-## How to Code
+## How to Code in .md
 
-```javascript
-var my var = 5;
-```
+\```Programming Name
+Your Code
+\```
+your can also use three ~
+
 
 <!-- ## Usage
 This is the git repository for NF-Ridoy Git Development Methodology.
