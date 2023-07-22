@@ -37,10 +37,10 @@ git push
 
 ## How to Code in .md
 
-\```Programming Name
-Your Code
-\```
-your can also use three ~
+\```Programming Name <br>
+Your Code <br>
+\``` <br>
+your can also use three ~ <br>
 
 
 <!-- ## Usage
