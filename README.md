@@ -42,6 +42,12 @@ Your Code <br>
 \``` <br>
 your can also use three ~ <br>
 
+### For Example: 
+\```javascript <br>
+let a = 5; <br>
+\``` <br>
+
+
 
 <!-- ## Usage
 This is the git repository for NF-Ridoy Git Development Methodology.
