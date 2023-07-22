@@ -1,4 +1,4 @@
-# NF-Ridoy-Git-Development-Methodology
+# NF-Ridoy-Git-Methodology
 This is the git repository for NF-Ridoy Git Development Methodology
 ## Introduction
 
