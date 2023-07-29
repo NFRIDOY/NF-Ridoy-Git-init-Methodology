@@ -2,7 +2,16 @@
 This is the git repository for NF-Ridoy Git Development Methodology
 ## Introduction
 
-## Installation
+# Installation 111
+## Alternative Github Repository [Time Saving]
+~~~
+Create a GitHub Repository
+Must ADD .gitignore
+Finish it.
+COPY the HTTP URL
+git clone it using the URL link
+~~~
+## Installation 101
 ## 0.0 Must ADD .gitignore
 PRESS F1 > SEARCH add gitignore > TYPE/SELECT node
 ### Make 9 branches: main, main-structure, develop, Responsive, Alpha, gh-pages, Beta, Gamma, Delta
@@ -21,14 +30,7 @@ PRESS F1 > SEARCH add gitignore > TYPE/SELECT node
 main >> main-structure >> develop >> Responsive >> Alpha >> Beta >> Gamma >> Delta
 <hr>
 
-# Alternative Github Repository [Time Saving]
-~~~
-Create a GitHub Repository
-Must ADD .gitignore
-Finish it.
-COPY the HTTP URL
-git clone it using the URL link
-~~~
+
 
 # Fork A Repository
 How To Fork A Repo <br>
