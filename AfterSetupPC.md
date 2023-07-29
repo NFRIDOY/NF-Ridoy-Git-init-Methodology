@@ -1,7 +1,18 @@
 # AfterSetupPC Or Boot
 ## Install This Softwere
 ~~~
-vs code https://code.visualstudio.com/
-git scm https://git-scm.com/downloads
-node https://nodejs.org/en
+vs code 
+git scm
+node.js
 ~~~
+Links
+~~~
+https://code.visualstudio.com/
+~~~
+~~~
+https://git-scm.com/downloads
+~~~
+~~~
+https://nodejs.org/en
+~~~
+
