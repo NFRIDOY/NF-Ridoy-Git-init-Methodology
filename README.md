@@ -21,6 +21,15 @@ PRESS F1 > SEARCH add gitignore > TYPE/SELECT node
 main >> main-structure >> develop >> Responsive >> Alpha >> Beta >> Gamma >> Delta
 <hr>
 
+# Alternative Github Repository [Time Saving]
+~~~
+Create a GitHub Repository
+Must ADD .gitignore
+Finish it.
+COPY the HTTP URL
+git clone it using the URL link
+~~~
+
 # Fork A Repository
 How To Fork A Repo <br>
 
