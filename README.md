@@ -58,6 +58,10 @@ your can also use three ~ <br>
 let a = 5; <br>
 \``` <br>
 
+## Change Existing Remote Origin using git remote set-url.txt
+~~~
+git remote set-url <URL>
+~~~
 
 
 <!-- ## Usage
