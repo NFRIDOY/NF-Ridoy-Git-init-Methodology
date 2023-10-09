@@ -63,6 +63,12 @@ let a = 5; <br>
 git remote set-url <URL>
 ~~~
 
+## npm Knowledge 
+~~~
+npm init -y 
+~~~
+Here -y means Yes all
+
 
 <!-- ## Usage
 This is the git repository for NF-Ridoy Git Development Methodology.
