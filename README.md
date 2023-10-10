@@ -69,6 +69,11 @@ npm init -y
 ~~~
 Here -y means Yes all
 
+## nodemon To run server
+~~~
+nodemon index.js
+~~~
+
 
 <!-- ## Usage
 This is the git repository for NF-Ridoy Git Development Methodology.
