@@ -73,7 +73,8 @@ Here -y means Yes all
 ~~~
 nodemon index.js
 ~~~
-
+## Remove Git Remote Origin
+<a href="https://chat.openai.com/share/f555f2b0-3c9e-4eca-a0e6-47310a10ec4e">How TO</a>
 
 <!-- ## Usage
 This is the git repository for NF-Ridoy Git Development Methodology.
