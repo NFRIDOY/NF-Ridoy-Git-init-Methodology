@@ -62,6 +62,11 @@ let a = 5; <br>
 ~~~
 git remote set-url <URL>
 ~~~
+OR
+```
+git remote remove origin
+git remote add origin https://github.com/NFRIDOY/taskmaster-redux-acc.git
+```
 
 ## npm Knowledge 
 ~~~
