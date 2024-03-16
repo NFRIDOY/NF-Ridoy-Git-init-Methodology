@@ -65,7 +65,7 @@ git remote set-url <URL>
 OR
 ```
 git remote remove origin
-git remote add origin https://github.com/NFRIDOY/taskmaster-redux-acc.git
+git remote add origin <URL>
 ```
 
 ## npm Knowledge 
