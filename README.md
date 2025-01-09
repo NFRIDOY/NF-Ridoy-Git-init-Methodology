@@ -1,6 +1,25 @@
 # NF-Ridoy-Git-Methodology
-This is the git repository for NF-Ridoy Git Development Methodology
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Installation](#installation)
+   - [Installation 111: Alternative GitHub Repository (Time-Saving)](#installation-111-alternative-github-repository-time-saving)
+   - [Installation 101](#installation-101)
+3. [Branching Strategy](#branching-strategy)
+   - [2025 Branches](#2025-branches)
+   - [2023 Branches](#2023-branches)
+4. [Forking a Repository](#forking-a-repository)
+5. [Working with Markdown](#working-with-markdown)
+6. [Changing Git Remote Origin](#changing-git-remote-origin)
+7. [npm Knowledge](#npm-knowledge)
+8. [Using nodemon to Run Server](#using-nodemon-to-run-server)
+9. [References](#references)
+
+---
+
 ## Introduction
+This is the Git repository for NF-Ridoy Git Development Methodology.
+
+---
 
 # Installation 111
 ## Alternative Github Repository [Time Saving]
