@@ -14,7 +14,15 @@ git clone it using the URL link
 ## Installation 101
 ## 0.0 Must ADD .gitignore
 PRESS F1 > SEARCH add gitignore > TYPE/SELECT node
-### Make 9 branches: main, main-structure, develop, Responsive, Alpha, gh-pages, Beta, Gamma, Delta
+## Make 4 main branches [2025]:
+### main(public/deploy), develop, stage, backup, deploy(if its serious project)
+1. main : (public/deploy branch) : parent -> stage
+2. develop : main coding branch
+3. stage : parant -> develop
+4. backup : parant -> develop
+5. deploy : use dedicated deploy for serious project
+
+### Make 9 branches [2023]: main, main-structure, develop, Responsive, Alpha, gh-pages, Beta, Gamma, Delta
 ### 1. Branch Details:
 <br> **main:** Main Master::  >> Merge main to gh-pages.
 <br> **main-structure:** Main Structure :: Merge main-structure to develop // [Merge main-structure to main]
